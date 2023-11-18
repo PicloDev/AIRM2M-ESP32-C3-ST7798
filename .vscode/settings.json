@@ -63,6 +63,8 @@
         "streambuf": "cpp",
         "thread": "cpp",
         "cinttypes": "cpp",
-        "typeinfo": "cpp"
-    }
+        "typeinfo": "cpp",
+        "lv_demos.h": "c"
+    },
+    "commentTranslate.hover.enabled": true
 }
