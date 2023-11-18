@@ -64,7 +64,8 @@
         "thread": "cpp",
         "cinttypes": "cpp",
         "typeinfo": "cpp",
-        "lv_demos.h": "c"
+        "lv_demos.h": "c",
+        "guider_fonts.h": "c"
     },
     "commentTranslate.hover.enabled": true
 }
